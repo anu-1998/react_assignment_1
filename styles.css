@@ -1,0 +1,17 @@
+* {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+body {
+  background-color: rgb(209, 235, 235);
+}
+
+.Button {
+  margin: 30px;
+  background-color: beige;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  border: 2px solid blueviolet;
+  margin-left: 10px;
+}
